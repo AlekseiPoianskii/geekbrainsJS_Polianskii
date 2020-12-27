@@ -1,0 +1,10 @@
+.heading {
+    color: yellowgreen;
+    background-color: red;
+    text-align: center;
+}
+
+.content {
+    width: 70%;
+    margin: 0px auto;
+}
