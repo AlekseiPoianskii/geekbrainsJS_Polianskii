@@ -1,0 +1,10 @@
+.container {
+    width: 1200px;
+    margin: 24px auto 32px;
+}
+
+.heading {
+    color: yellowgreen;
+    background-color: red;
+    text-align: center;
+}
